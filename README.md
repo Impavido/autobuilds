@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/Impavido/autobuilds.svg?branch=master)](https://travis-ci.com/Impavido/autobuilds)
+
 # Linux Tweet App
 
 This is very simple NGINX website that allows a user to send a tweet. 
